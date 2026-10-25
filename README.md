@@ -4,6 +4,13 @@
 **Actividad:** Tarea 3. Procesamiento de Datos con Apache Spark
 **Autor:** Daniel Andrés Mercado Trillos
 
+## Videos
+
+| Video | Enlace |
+|---|---|
+| Procesamiento batch con Apache Spark (limpieza, análisis y gráficas) | https://youtu.be/t9-WJBmpIqI |
+| Procesamiento en tiempo real con Apache Kafka y Spark Streaming (Anexo 3) | https://youtu.be/fPiI-OyUumU |
+
 ## Problema
 
 > ¿Cómo ha evolucionado la demanda de servicios de salud en Colombia entre 2009 y 2021 según el tipo de atención, el departamento y el diagnóstico, y qué impacto tuvo la pandemia de 2020 en esa demanda?
